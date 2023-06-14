@@ -1,0 +1,15 @@
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\bin\Debug\net6.0\Project1(Authentication).exe
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\bin\Debug\net6.0\Project1(Authentication).deps.json
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\bin\Debug\net6.0\Project1(Authentication).runtimeconfig.json
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\bin\Debug\net6.0\Project1(Authentication).dll
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\bin\Debug\net6.0\Project1(Authentication).pdb
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).csproj.AssemblyReference.cache
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).GeneratedMSBuildEditorConfig.editorconfig
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).AssemblyInfoInputs.cache
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).AssemblyInfo.cs
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).csproj.CoreCompileInputs.cache
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).dll
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\refint\Project1(Authentication).dll
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).pdb
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\Project1(Authentication).genruntimeconfig.cache
+D:\Pekerjaan\MCC\Project1(Authentication)\Project1(Authentication)\obj\Debug\net6.0\ref\Project1(Authentication).dll

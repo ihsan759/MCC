@@ -1,0 +1,15 @@
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.csproj.AssemblyReference.cache
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.AssemblyInfoInputs.cache
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.AssemblyInfo.cs
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.csproj.CoreCompileInputs.cache
+D:\Pekerjaan\MCC\Latihan1\Latihan1\bin\Debug\net6.0\Latihan1.exe
+D:\Pekerjaan\MCC\Latihan1\Latihan1\bin\Debug\net6.0\Latihan1.deps.json
+D:\Pekerjaan\MCC\Latihan1\Latihan1\bin\Debug\net6.0\Latihan1.runtimeconfig.json
+D:\Pekerjaan\MCC\Latihan1\Latihan1\bin\Debug\net6.0\Latihan1.dll
+D:\Pekerjaan\MCC\Latihan1\Latihan1\bin\Debug\net6.0\Latihan1.pdb
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.dll
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\refint\Latihan1.dll
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.pdb
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\Latihan1.genruntimeconfig.cache
+D:\Pekerjaan\MCC\Latihan1\Latihan1\obj\Debug\net6.0\ref\Latihan1.dll
