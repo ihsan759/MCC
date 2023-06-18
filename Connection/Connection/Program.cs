@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Connection.Controllers;
+
+namespace Connection;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        MenuController menu = new MenuController();
+        menu.Main();
+    }
+}
